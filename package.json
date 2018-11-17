@@ -1,0 +1,16 @@
+{
+  "name": "many2many",
+  "version": "1.0.0",
+  "description": "relationship many to many with mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jorge L. Alfaro",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.12"
+  }
+}
